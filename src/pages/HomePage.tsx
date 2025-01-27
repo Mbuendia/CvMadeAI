@@ -8,7 +8,7 @@ const HomePage = () => {
         <div className="relative inline-block animate-float mb-8">
           <div className="absolute inset-0 bg-teal-400 rounded-full blur-2xl opacity-20"></div>
           <img
-            src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&auto=format&fit=crop&w=200&h=200&q=80"
+            src="https://media.licdn.com/dms/image/v2/C5103AQH_ArdainqqrA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1517009312324?e=1743638400&v=beta&t=KyyUVwJXTZ7uLl6Y-M0YPOail6Zomq98-nVwariJtmU"
             alt="Profile"
             className="relative w-32 h-32 md:w-40 md:h-40 rounded-full object-cover border-4 border-white/10"
           />

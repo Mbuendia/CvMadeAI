@@ -26,7 +26,7 @@ function AppContent() {
           <nav className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
             <Link to="/" className="flex items-center space-x-3 text-white hover:text-teal-300 transition-all duration-300">
               <Home className="w-6 h-6" />
-              <span className="text-xl font-bold">John Doe</span>
+              <span className="text-xl font-bold">Mario Buendia Varela</span>
             </Link>
             
             {/* Mobile Menu Button */}
@@ -100,7 +100,7 @@ function AppContent() {
               <SocialLink href="mailto:contact@example.com" icon={<Mail className="w-6 h-6" />} />
             </div>
             <p className="text-center text-gray-400 mt-6 text-sm md:text-base">
-              © {new Date().getFullYear()} John Doe. All rights reserved.
+              © {new Date().getFullYear()} Mario Buendia. All rights reserved.
             </p>
           </div>
         </div>
