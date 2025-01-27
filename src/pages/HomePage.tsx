@@ -14,7 +14,7 @@ const HomePage = () => {
           />
         </div>
         <h1 className="text-4xl md:text-5xl font-bold mb-4 md:mb-6 bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent">
-          Mario Buendia Varela
+         MBV Web Dev
         </h1>
         <p className="text-xl md:text-2xl text-teal-300 mb-6 md:mb-8">Senior Software Engineer</p>
         <p className="max-w-2xl mx-auto text-gray-400 text-base md:text-lg leading-relaxed px-4">
@@ -103,7 +103,7 @@ const experience = [
     description: 'Leading a team of developers in building scalable web applications using React and Node.js. Implemented microservices architecture and improved system performance by 40%.',
   },
   {
-    title: 'Senior Front Endd Software Engineer',
+    title: 'Senior Front End Software Engineer',
     company: 'BBVA NEXT',
     period: '2019 - 2023',
     description: 'Developed and maintained multiple client projects using modern web technologies. Specialized in front-end development and UI/UX implementation.',
