@@ -14,7 +14,7 @@ const HomePage = () => {
           />
         </div>
         <h1 className="text-4xl md:text-5xl font-bold mb-4 md:mb-6 bg-gradient-to-r from-white to-gray-400 bg-clip-text text-transparent">
-          John Doe
+          Mario Buenida Varela
         </h1>
         <p className="text-xl md:text-2xl text-teal-300 mb-6 md:mb-8">Senior Software Engineer</p>
         <p className="max-w-2xl mx-auto text-gray-400 text-base md:text-lg leading-relaxed px-4">
