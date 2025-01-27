@@ -109,7 +109,7 @@ const experience = [
     description: 'Developed and maintained multiple client projects using modern web technologies. Specialized in front-end development and UI/UX implementation.',
   },
   {
-    title: 'Senior Front Endd Software Engineer',
+    title: 'Senior Front End Software Engineer',
     company: 'Sngular',
     period: '2018 - 2019',
     description: 'Developed and maintained multiple client projects using modern web technologies. Specialized in front-end development and UI/UX implementation.',
